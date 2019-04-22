@@ -1,2 +1,2 @@
-# cobaia-mdl
+# cobaia-sql
 Tests with Postgresql
